@@ -75,7 +75,6 @@ Areas of interest:
 
 **Tools:** Python | SQL | Excel | Power BI | Tableau
 
-*Project showcase — coming soon.*
 
 ---
 
@@ -94,7 +93,7 @@ Areas of interest:
 
 **Tools:** Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn
 
-*Project showcase — coming soon.*
+
 
 ---
 
@@ -113,26 +112,6 @@ Areas of interest:
 
 **Tools:** Python | SQL | Apache Airflow | MySQL | PostgreSQL
 
-*Project showcase — coming soon.*
-
----
-
-## 🧠 04. Artificial Intelligence & Advanced Analytics
-
-**Focus:** Exploring intelligent systems and advanced data-driven applications.
-
-Areas of interest:
-- AI and Machine Learning Applications
-- Predictive and Statistical Analytics
-- Intelligent Decision Support Systems
-- Natural Language Processing
-- Experimentation and Model Analysis
-
-**Tools:** Python | Machine Learning | Statistics | AI
-
-*Project showcase — coming soon.*
-
----
 
 ## 🔄 05. End-to-End Data Science Solutions
 
@@ -147,7 +126,6 @@ Areas of interest:
 - Results Interpretation and Reporting
 - Deployment and Practical Applications
 
-*Project showcase — coming soon.*
 
 ---
 
@@ -163,7 +141,7 @@ Areas of interest:
 - Python Libraries and Practical Exercises
 - Technical Case Studies
 
-*Project showcase — coming soon.*
+
 
 ---
 
